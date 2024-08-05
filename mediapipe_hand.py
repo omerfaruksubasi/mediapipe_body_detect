@@ -10,7 +10,7 @@ hands = mp_hands.Hands(static_image_mode=True, max_num_hands=2, min_detection_co
 mp_drawing = mp.solutions.drawing_utils
 
 # Girdiyi yükleyin
-input_img = '/Users/omerfaruksubasi/Desktop/sunum/mediapipe/hand.jpg'
+input_img = 'images3.jpg'
 if not os.path.isfile(input_img):
     print(f"Error: The file {input_img} does not exist.")
 else:
