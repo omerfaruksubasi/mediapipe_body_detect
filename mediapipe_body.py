@@ -9,7 +9,7 @@ pose = mp_pose.Pose()
 mp_drawing = mp.solutions.drawing_utils
 
 # Girdiyi yükleyin
-input_img = '/Users/omerfaruksubasi/Desktop/sunum/mediapipe/deneme.jpg'
+input_img = 'images2.jpg'
 image = cv2.imread(input_img)
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
