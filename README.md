@@ -9,6 +9,7 @@ Mediapipe, Google tarafından geliştirilmiş ücretsiz ve açık kaynaklı bir 
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
 - [Örnekler](#örnekler)
+- [Sonuçlar](#sonuçlar)
 - [Katkıda Bulunanlar](#katkıda-bulunanlar)
 
 
