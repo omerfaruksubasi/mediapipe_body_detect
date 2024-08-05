@@ -38,4 +38,4 @@ Mediapipe, Google tarafından geliştirilmiş ücretsiz ve açık kaynaklı bir 
 
 ## Katkıda Bulunanlar
 
-- [Ömer Faruk Subaşı - [GitHub profil bağlantınız](https://github.com/omerfaruksubasi)]
+- [Ömer Faruk Subaşı - [GitHub Profil Bağlantısı](https://github.com/omerfaruksubasi)]
