@@ -26,9 +26,9 @@ Mediapipe, Google tarafından geliştirilmiş ücretsiz ve açık kaynaklı bir 
 
 ## Örnekler
 
-[vucut](images2.jpg)
+![vucut](images2.jpg)
 
-[el](images3.jpg)
+![el](images3.jpg)
 
 - **Görüntü:**
 
