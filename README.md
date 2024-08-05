@@ -2,7 +2,7 @@
 
 Mediapipe, Google tarafından geliştirilmiş ücretsiz ve açık kaynaklı bir makine öğrenmesi kütüphanesidir. Python, JavaScript, IOS ve Android desteği bulunmaktadır. Modüler yapısı sayesinde bize kullanımı kolay ve hızlı uygulanabilir bir yapı sunuyor. Bu kütüphane ile aşağıda görülen çeşitli konularda projeler üretebiliriz.
 
-![mediapipe](images.jpg)
+![mediapipe](images.png)
 
 
 ## İçindekiler
