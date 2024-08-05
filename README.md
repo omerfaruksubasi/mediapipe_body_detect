@@ -30,9 +30,11 @@ Mediapipe, Google tarafından geliştirilmiş ücretsiz ve açık kaynaklı bir 
 
 ![el](images3.jpg)
 
-- **Görüntü:**
+## Sonuçlar
 
-    [Görüntü bağlantısı veya eklenen görüntü dosyası]
+![vucut](pose_detected.jpg)
+
+![el](hand_detected.jpg)
 
 ## Katkıda Bulunanlar
 
